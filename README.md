@@ -1,7 +1,7 @@
 # DataVisualization
 
 Libararies needed
-Streamlit for local server
+Streamlit for local server to view the site
 Pandas
 Numpy for Computations
 Plotly.express to plot the data 
