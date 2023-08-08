@@ -1,9 +1,10 @@
 # DataVisualization
 
-Libararies needed
-Streamlit for local server to view the site
-Pandas
-Numpy for Computations
-Plotly.express to plot the data 
-Wordcloud to make the wordcloud of the selected data
-Matplotlib.pyplot 
+## Libararies needed
+--------------------------------------------------------------------------
+1- Streamlit for local server to view the site
+2- Pandas
+3- Numpy for Computations
+4- Plotly.express to plot the data 
+5- Wordcloud to make the wordcloud of the selected data
+6- Matplotlib.pyplot 
